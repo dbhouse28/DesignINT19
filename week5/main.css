@@ -10,13 +10,13 @@ body {
 .header {
   width: 100%;
   height: 250px;
-  background-color: rgb(18, 121, 111);
+  background-color: (red);
 }
 
 .menu {
   width: 100%;
   height: 50px;
-  background-color: rgb(199, 134, 78);
+  background-color: (blue);
 
   display: flex;
   justify-content: center; /* horizontal */
