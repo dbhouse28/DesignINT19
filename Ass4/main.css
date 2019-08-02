@@ -26,12 +26,12 @@ body {
 .button {
   width: 120px;
   height: 100%;
-  background-color: rgb(203, 164, 130);
+  background-color: #ie90ff;
   margin: 2px;
 }
 
 .button:hover {
-  background-color: rgb(197, 170, 146);
+  background-color: #ccff00;
 }
 
 .hero {
