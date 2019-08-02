@@ -16,7 +16,7 @@ body {
 .menu {
   width: 100%;
   height: 50px;
-  background-color: #00bfff;
+  background-color: #ccff00;
 
   display: flex;
   justify-content: center; /* horizontal */
