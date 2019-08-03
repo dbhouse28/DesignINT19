@@ -14,10 +14,11 @@ body {
   background-color: #ff6037;
 }
 
-IMG.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .menu {
