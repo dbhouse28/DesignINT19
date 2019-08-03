@@ -9,19 +9,13 @@ body {
 }
 
 .header {
-  width: 20%;
+  width: 100%;
   height: 250px;
   background-color: #ff6037;
 }
 
-.imagebox {
-| width: 50%;
-| height: 200px;|
-| border: 10px solid color: #ffffff;
-}
-
 .imagebox img {
-  width: 100%;
+  width: 25%;
 
 .menu {
   width: 100%;
